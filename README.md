@@ -15,8 +15,6 @@ In conjunction with xUnit, the Moq framework was used, for Mock data under test,
 
 ## Run Application
 
-- Unzip CAPS-CARTA.zip into a directory of your choice.
-
  ### Option 1
  - Open the solution VestingProblem.sln in visualStudio or any ide you like that supports the technology.
  - Run the Terminal project.
