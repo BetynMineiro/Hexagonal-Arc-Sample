@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Entites\" />
+    <None Remove="ValueObjects\" />
+    <None Remove="Enuns\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Entites\" />
+    <Folder Include="ValueObjects\" />
+    <Folder Include="Enuns\" />
+  </ItemGroup>
+</Project>

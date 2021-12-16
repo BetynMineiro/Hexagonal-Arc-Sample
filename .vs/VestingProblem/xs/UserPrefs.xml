@@ -1,0 +1,64 @@
+﻿<Properties StartupConfiguration="{0B5320C9-0EDE-4E71-9DDB-1E460DB2316A}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="src/2 - ApplicationCore/Application/AwardsUserCases/Dto/VestingAwardOperationOutput.cs">
+    <Files>
+      <File FileName="test/VestingProblem.Test/2 - ApplicationCore/Application/Factories/Awards/AwardUserCaseStrategyFactoryTest.cs" Line="16" Column="8" />
+      <File FileName="test/VestingProblem.Test/2 - ApplicationCore/Application/AwardsUserCases/AwardsUserCasesTest.cs" />
+      <File FileName="src/2 - ApplicationCore/Application/AwardsUserCases/VestingAwardUserCase.cs" Line="15" Column="64" />
+      <File FileName="src/1 - Ports/Terminal/Program.cs" Line="24" Column="14" />
+      <File FileName="src/2 - ApplicationCore/Domain/Entites/Employee.cs" Line="42" Column="10" />
+      <File FileName="src/2 - ApplicationCore/Domain/ValueObjects/Award.cs" Line="1" Column="1" />
+      <File FileName="src/2 - ApplicationCore/Domain/Enuns/OperationType.cs" Line="1" Column="1" />
+      <File FileName="src/2 - ApplicationCore/Domain/Repositories/IEmployeeAwardRepository.cs" Line="1" Column="1" />
+      <File FileName="src/3 - Adapters/SimpleStorage/Repositories/EmployeeAwardRepository.cs" Line="24" Column="10" />
+      <File FileName="src/2 - ApplicationCore/Application/AwardsUserCases/Dto/VestingAwardOperationInput.cs" Line="1" Column="1" />
+      <File FileName="src/2 - ApplicationCore/Application/AwardsUserCases/Dto/VestingAwardOperationOutput.cs" Line="1" Column="1" />
+      <File FileName="src/2 - ApplicationCore/Application/AwardsUserCases/CancelAwardUserCase.cs" Line="1" Column="1" />
+      <File FileName="src/2 - ApplicationCore/Application/Factories/Awards/AwardUserCaseStrategyFactory.cs" Line="1" Column="1" />
+      <File FileName="src/2 - ApplicationCore/Application/Factories/Awards/Interfaces/IAwardUserCaseStrategy.cs" Line="1" Column="1" />
+      <File FileName="src/2 - ApplicationCore/Application/Factories/Awards/Interfaces/IAwardUserCaseStrategyFactory.cs" Line="1" Column="1" />
+      <File FileName="src/2 - ApplicationCore/Application/Services/VestingEventsFileService.cs" Line="1" Column="1" />
+      <File FileName="src/4 - Commom/CrossCutting/Extensions/StringFormatExtension.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="VestingProblem" expanded="True">
+            <Node name="src" expanded="True">
+              <Node name="4 - Commom" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="VestingProblem" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.src.1_220-_220Ports.Terminal PreferredExecutionTarget="MonoDevelop.Default" />
+  <DisabledProjects>
+    <String>src/Domain/Domain.csproj</String>
+    <String>src/Domain/Application/Application.csproj</String>
+    <String>src/Terminal/Terminal.csproj</String>
+    <String>test/Application.Test/Domain.Test/Domain.Test.csproj</String>
+    <String>test/Application.Test/Application.Test.csproj</String>
+    <String>src/2 - ApplicationCore/Domain/Application/Application.csproj</String>
+    <String>test/2 - ApplicationCore/ApplicationCore.Test/VestingProblem.Test.csproj</String>
+    <String>src/SimpleStorage/SimpleStorage.csproj</String>
+    <String>src/CrossCutting/CrossCutting.csproj</String>
+  </DisabledProjects>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/csilva/src/VestingProblem/test/VestingProblem.Test/3 - Adapters/Repositories/EmployeeAwardRepositoryTests.cs" relfile="test/VestingProblem.Test/3 - Adapters/Repositories/EmployeeAwardRepositoryTests.cs" line="168" column="1" />
+      <Breakpoint file="/Users/csilva/src/VestingProblem/test/VestingProblem.Test/2 - ApplicationCore/Application/Factories/Awards/AwardUserCaseStrategyFactoryTest.cs" relfile="test/VestingProblem.Test/2 - ApplicationCore/Application/Factories/Awards/AwardUserCaseStrategyFactoryTest.cs" line="200" column="1" />
+      <Breakpoint file="/Users/csilva/src/VestingProblem/src/1 - Ports/Terminal/Program.cs" relfile="src/1 - Ports/Terminal/Program.cs" line="41" column="1" />
+      <Breakpoint file="/Users/csilva/src/VestingProblem/test/VestingProblem.Test/2 - ApplicationCore/Services/VestingEventsFileServiceTest.cs" relfile="test/VestingProblem.Test/2 - ApplicationCore/Services/VestingEventsFileServiceTest.cs" line="28" column="1" />
+      <Breakpoint file="/Users/csilva/src/VestingProblem/test/VestingProblem.Test/2 - ApplicationCore/Services/VestingEventsFileServiceTest.cs" relfile="test/VestingProblem.Test/2 - ApplicationCore/Services/VestingEventsFileServiceTest.cs" line="37" column="1" />
+      <Breakpoint file="/Users/csilva/src/VestingProblem/test/VestingProblem.Test/4 - Commom/Services/FileServicesTest.cs" relfile="test/VestingProblem.Test/4 - Commom/Services/FileServicesTest.cs" line="21" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

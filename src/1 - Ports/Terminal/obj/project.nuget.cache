@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "5BD+ni42GIPhw8t2anQe/MGE9SiglZGVq4B4Od6723Q+kdCub+N9Pw65RHS0QGfbRjTL/67lxVgP9Fp1YAymYg==",
+  "success": true,
+  "projectFilePath": "/Users/csilva/src/VestingProblem/src/1 - Ports/Terminal/Terminal.csproj",
+  "expectedPackageFiles": [
+    "/Users/csilva/.nuget/packages/microsoft.extensions.dependencyinjection/6.0.0/microsoft.extensions.dependencyinjection.6.0.0.nupkg.sha512",
+    "/Users/csilva/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/6.0.0/microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "/Users/csilva/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

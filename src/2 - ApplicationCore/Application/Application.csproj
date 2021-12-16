@@ -1,0 +1,36 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="AwardsUserCases\" />
+    <None Remove="Service\" />
+    <None Remove="Factories\" />
+    <None Remove="AwardsUserCases\Dto\" />
+    <None Remove="Factories\Awards\" />
+    <None Remove="Factories\Awards\Interfaces\" />
+    <None Remove="Microsoft.Extensions.DependencyInjection" />
+    <None Remove="Service\Interface\" />
+    <None Remove="Service\Dto\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="AwardsUserCases\" />
+    <Folder Include="Service\" />
+    <Folder Include="Factories\" />
+    <Folder Include="AwardsUserCases\Dto\" />
+    <Folder Include="Factories\Awards\" />
+    <Folder Include="Factories\Awards\Interfaces\" />
+    <Folder Include="Service\Interfaces\" />
+    <Folder Include="Service\Dto\" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="6.0.0" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\4 - Commom\CrossCutting\CrossCutting.csproj" />
+    <ProjectReference Include="..\Domain\Domain.csproj" />
+    <ProjectReference Include="..\..\3 - Adapters\SimpleStorage\SimpleStorage.csproj" />
+  </ItemGroup>
+</Project>

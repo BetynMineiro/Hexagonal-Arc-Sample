@@ -1,0 +1,122 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/csilva/src/VestingProblem/src/3 - Adapters/SimpleStorage/SimpleStorage.csproj": {}
+  },
+  "projects": {
+    "/Users/csilva/src/VestingProblem/src/2 - ApplicationCore/Domain/Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/csilva/src/VestingProblem/src/2 - ApplicationCore/Domain/Domain.csproj",
+        "projectName": "Domain",
+        "projectPath": "/Users/csilva/src/VestingProblem/src/2 - ApplicationCore/Domain/Domain.csproj",
+        "packagesPath": "/Users/csilva/.nuget/packages/",
+        "outputPath": "/Users/csilva/src/VestingProblem/src/2 - ApplicationCore/Domain/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/csilva/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.403/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/csilva/src/VestingProblem/src/3 - Adapters/SimpleStorage/SimpleStorage.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/csilva/src/VestingProblem/src/3 - Adapters/SimpleStorage/SimpleStorage.csproj",
+        "projectName": "SimpleStorage",
+        "projectPath": "/Users/csilva/src/VestingProblem/src/3 - Adapters/SimpleStorage/SimpleStorage.csproj",
+        "packagesPath": "/Users/csilva/.nuget/packages/",
+        "outputPath": "/Users/csilva/src/VestingProblem/src/3 - Adapters/SimpleStorage/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/csilva/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "/Users/csilva/src/VestingProblem/src/2 - ApplicationCore/Domain/Domain.csproj": {
+                "projectPath": "/Users/csilva/src/VestingProblem/src/2 - ApplicationCore/Domain/Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.403/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
